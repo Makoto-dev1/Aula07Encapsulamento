@@ -1,0 +1,13 @@
+I:\Users\Makoto-dev\Desktop\Aula07Encapsulamento\bin\Debug\netcoreapp3.1\Aula07Encapsulamento.exe
+I:\Users\Makoto-dev\Desktop\Aula07Encapsulamento\bin\Debug\netcoreapp3.1\Aula07Encapsulamento.deps.json
+I:\Users\Makoto-dev\Desktop\Aula07Encapsulamento\bin\Debug\netcoreapp3.1\Aula07Encapsulamento.runtimeconfig.json
+I:\Users\Makoto-dev\Desktop\Aula07Encapsulamento\bin\Debug\netcoreapp3.1\Aula07Encapsulamento.runtimeconfig.dev.json
+I:\Users\Makoto-dev\Desktop\Aula07Encapsulamento\bin\Debug\netcoreapp3.1\Aula07Encapsulamento.dll
+I:\Users\Makoto-dev\Desktop\Aula07Encapsulamento\bin\Debug\netcoreapp3.1\Aula07Encapsulamento.pdb
+I:\Users\Makoto-dev\Desktop\Aula07Encapsulamento\obj\Debug\netcoreapp3.1\Aula07Encapsulamento.csprojAssemblyReference.cache
+I:\Users\Makoto-dev\Desktop\Aula07Encapsulamento\obj\Debug\netcoreapp3.1\Aula07Encapsulamento.AssemblyInfoInputs.cache
+I:\Users\Makoto-dev\Desktop\Aula07Encapsulamento\obj\Debug\netcoreapp3.1\Aula07Encapsulamento.AssemblyInfo.cs
+I:\Users\Makoto-dev\Desktop\Aula07Encapsulamento\obj\Debug\netcoreapp3.1\Aula07Encapsulamento.csproj.CoreCompileInputs.cache
+I:\Users\Makoto-dev\Desktop\Aula07Encapsulamento\obj\Debug\netcoreapp3.1\Aula07Encapsulamento.dll
+I:\Users\Makoto-dev\Desktop\Aula07Encapsulamento\obj\Debug\netcoreapp3.1\Aula07Encapsulamento.pdb
+I:\Users\Makoto-dev\Desktop\Aula07Encapsulamento\obj\Debug\netcoreapp3.1\Aula07Encapsulamento.genruntimeconfig.cache
